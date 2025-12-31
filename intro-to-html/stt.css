@@ -1,0 +1,14 @@
+.sts{
+    background-color:blue;
+    color:white;
+    border:none;
+    height: 89px;
+    width: 100px;
+    border-radius:3px;
+    cursor: pointer;
+}
+.fts{
+    background-color:white;
+    border-color:yellow;
+    border-style: solid;
+}
